@@ -1,0 +1,6 @@
+// .vscode/settings.json
+{
+    "python.defaultInterpreterPath": "C:/Prog/envs/ml_env/Scripts/python.exe",
+    "python.terminal.activateEnvironment": true,
+    "python.terminal.activateEnvInCurrentTerminal": true
+}
