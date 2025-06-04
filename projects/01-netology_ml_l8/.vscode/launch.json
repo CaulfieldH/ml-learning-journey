@@ -7,7 +7,7 @@
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal",
-            "python": "${workspaceFolder}/ml_env/Scripts/python.exe",
+            "python": "C:/Prog/envs/ml_env/Scripts/python.exe",
             "env": {
                 "PYTHONPATH": "${workspaceFolder}"
             }
@@ -18,7 +18,7 @@
             "request": "launch",
             "program": "${workspaceFolder}/netology_ml_l8.py",
             "console": "integratedTerminal",
-            "python": "${workspaceFolder}/ml_env/Scripts/python.exe"
+            "python": "C:/Prog/envs/ml_env/Scripts/python.exe"
         }
     ]
 }
